@@ -14,6 +14,7 @@ public class ItemServiceApplication {
 	}
 
 /*
+스프링부트를 사용하면 작성하지 않아도 괜찮다.
 	@Bean
 	public MessageSource messageSource() {
 		ResourceBundleMessageSource messageSource = new ResourceBundleMessageSource();
